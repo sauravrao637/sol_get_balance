@@ -1,0 +1,1 @@
+A simple program that demonstrate how to get balance from solana network using rpc client.
